@@ -1,0 +1,4 @@
+#Sun Nov 05 22:50:49 CET 2023
+base.0=/home/user/Projects/home_work/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
